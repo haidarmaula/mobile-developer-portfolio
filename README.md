@@ -181,15 +181,6 @@ Gunadarma University — GPA: 3.75/4.00
 
 ---
 
-## 🎯 Currently Exploring
-
-- Advanced mobile architecture patterns (BLoC, Clean Architecture)
-- Performance optimization in Flutter & React Native
-- System design for mobile-backend communication
-- Building apps with better offline-first and sync capabilities
-
----
-
 ## 📫 Contact
 
 - **LinkedIn:** [linkedin.com/in/haidarmaula](https://linkedin.com/in/haidarmaula)
