@@ -39,6 +39,14 @@ Mobile Developer specializing in cross-platform development with **React Native*
 
 ### 🏦 Koperasi Astra Apps — Payment & Savings Platform
 
+<p align="center">
+  <img src="assets/kaiapps1.jpeg" width="250" />
+  &nbsp;
+  <img src="assets/kaiapps2.jpeg" width="250" />
+  &nbsp;
+  <img src="assets/kaiapps3.jpeg" width="250" />
+</p>
+
 React Native payment platform serving **60,000+ active Astra Group members**. The app provides financial services including savings management, loan applications, and bill payments for Astra Group employees.
 
 **Tech Stack**
@@ -67,6 +75,16 @@ React Native payment platform serving **60,000+ active Astra Group members**. Th
 
 ### 💼 Lendtick Mobile — Digital Loan Approval App
 
+<p align="center">
+  <img src="assets/lendtick2.jpeg" width="180" />
+  &nbsp;
+  <img src="assets/lendtick1.jpeg" width="180" />
+  &nbsp;
+  <img src="assets/lendtick3.jpeg" width="180" />
+  &nbsp;
+  <img src="assets/lendtick4.jpeg" width="180" />
+</p>
+
 Flutter-based digital loan approval application for Human Capital (HC) and Koperasi Unit managers across Astra Group, enabling verification and approval of member loan applications. Built approximately **90% of the application** end-to-end.
 
 **Tech Stack**
@@ -92,6 +110,14 @@ Flutter-based digital loan approval application for Human Capital (HC) and Koper
 ---
 
 ### 🐦 WatsdaBird — Bird Sound Classification App
+
+<p align="center">
+  <img src="assets/watsdabird3.jpeg" width="180" />
+  &nbsp;
+  <img src="assets/watsdabird2.jpeg" width="180" />
+  &nbsp;
+  <img src="assets/watsdabird1.jpeg" width="180" />
+</p>
 
 A personal end-to-end project: a cross-platform mobile app that identifies bird species from audio recordings using a CNN deep learning model. Built the entire stack — from Flutter frontend to Python ML backend — solo.
 
