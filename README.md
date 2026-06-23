@@ -110,7 +110,7 @@ A personal end-to-end project: a cross-platform mobile app that identifies bird 
 - Model trained on 12,510 audio samples with audio preprocessing and spectrogram generation
 - CNN inference completing in **~2.3s** per prediction
 
-➡️ [View Project](https://github.com/haidarmaula)
+➡️ [View Project](https://github.com/haidarmaula/watsdabird-frontend)
 
 ---
 
