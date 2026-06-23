@@ -78,11 +78,11 @@ React Native payment platform serving **60,000+ active Astra Group members**. Th
 <p align="center">
   <img src="assets/lendtick2.jpeg" width="180" />
   &nbsp;
-  <img src="assets/lendtick1.jpeg" width="180" />
+  <img src="assets/lendtick4.jpeg" width="180" />
   &nbsp;
   <img src="assets/lendtick3.jpeg" width="180" />
   &nbsp;
-  <img src="assets/lendtick4.jpeg" width="180" />
+  <img src="assets/lendtick1.jpeg" width="180" />
 </p>
 
 Flutter-based digital loan approval application for Human Capital (HC) and Koperasi Unit managers across Astra Group, enabling verification and approval of member loan applications. Built approximately **90% of the application** end-to-end.
